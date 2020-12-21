@@ -14,4 +14,5 @@ http://blog.yaoyaoman.cn/2020/12/20/tongyao_play/
 提前引入Jquery，在线地址：http://blog.yaoyaoman.cn/tools/js/jquery-2.1.4.min.js
 
 http://blog.yaoyaoman.cn/tools/js/tongyao_player-1.1.js
+
 http://blog.yaoyaoman.cn/tools/js/tongyao_player-1.1.css
