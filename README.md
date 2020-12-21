@@ -15,4 +15,4 @@ http://blog.yaoyaoman.cn/2020/12/20/tongyaoplay/
 
 http://blog.yaoyaoman.cn/tools/js/tongyao_player-1.1.js
 
-http://blog.yaoyaoman.cn/tools/js/tongyao_player-1.1.css
+http://blog.yaoyaoman.cn/tools/css/tongyao_player-1.1.css
