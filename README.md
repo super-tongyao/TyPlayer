@@ -8,7 +8,7 @@
 http://blog.yaoyaoman.cn
 
 # Doc
-http://blog.yaoyaoman.cn/2020/12/20/tongyao_play/
+http://blog.yaoyaoman.cn/2020/12/20/tongyaoplay/
 
 # 在线样式和脚本
 提前引入Jquery，在线地址：http://blog.yaoyaoman.cn/tools/js/jquery-2.1.4.min.js
