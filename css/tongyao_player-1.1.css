@@ -1,0 +1,24 @@
+#tongyao-music{
+	position:fixed;
+	bottom:18px;
+	left:10px;
+	border:1px red soild;
+	width:390px;
+	height:100px;
+	transition-duration: 1s;
+}
+#tongyao-iframe{
+	float:left;
+}
+#tongyao-left{
+	margin-top:10px;
+	width:20px;
+	height:90px;
+	background-color:#fff;
+	float:left;
+	border-radius:3px;
+	line-height:90px;
+	text-align:center;
+	cursor:pointer;
+	box-shadow: 0 0 10px #ccc;
+}
