@@ -1,5 +1,5 @@
 # Tongyao_Player
-![pic1](https://i.loli.net/2020/12/22/MHvNF62R1ycjgOC.png)
+![tongyaoplayer.png](https://i.loli.net/2020/12/22/MHvNF62R1ycjgOC.png)
 
 一款轻量级左下角可收缩，网页播放器插件，演示地址：http://blog.yaoyaoman.cn
 
@@ -21,7 +21,7 @@ http://blog.yaoyaoman.cn/tools/js/tongyao_player-1.1.js
 
 http://blog.yaoyaoman.cn/tools/css/tongyao_player-1.1.css
 
-
+ 
 
 您贵站有ssl证书引入地址
 
