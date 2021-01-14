@@ -28,6 +28,6 @@ http://blog.yaoyaoman.cn/2020/12/20/tongyaoplay/
 
 在线引入地址
 
-https://yaoyaoman.cn/tools/js/tongyao_player-1.2.js
+https://yaoyaoman.cn/tools/js/tongyao_player-1.3.js
 
-https://yaoyaoman.cn/tools/css/tongyao_player-1.2.css
+https://yaoyaoman.cn/tools/css/tongyao_player-1.3.css
