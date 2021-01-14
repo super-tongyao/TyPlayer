@@ -1,6 +1,5 @@
 var i = 0;
 $(function (){
-	$("#tongyao-music").css("left","-325px")
 	$("#tongyao-left").click(function(){
 		if(i == 0){
 			$("#tongyao-music").css("left","-325px")
