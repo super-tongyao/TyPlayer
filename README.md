@@ -30,4 +30,4 @@ http://blog.yaoyaoman.cn/2020/12/20/tongyaoplay/
 
 https://yaoyaoman.cn/tools/js/tongyao_player-1.1.js
 
-https://yaoyaoman.cn/tools/css/tongyao_player-1.1.css
+https://yaoyaoman.cn/tools/css/tongyao_player-1.2.css
