@@ -9,21 +9,22 @@
 # 演示地址
 http://blog.yaoyaoman.cn
 
+# 更新日志
+2021-01-14
+1、更新了打开播放器后等待数秒后自动收缩
+
+2020-12-22
+1、初始化Tongyao_Player播放器代码
+
+
 # Doc
 http://blog.yaoyaoman.cn/2020/12/20/tongyaoplay/
 
 # 在线样式和脚本
-提前引入Jquery，在线地址：http://blog.yaoyaoman.cn/tools/js/jquery-2.1.4.min.js
+提前引入Jquery，在线地址：https://yaoyaoman.cn/tools/js/jquery-2.1.4.min.js
 
-您贵站没有证书引入地址
 
-http://blog.yaoyaoman.cn/tools/js/tongyao_player-1.1.js
-
-http://blog.yaoyaoman.cn/tools/css/tongyao_player-1.1.css
-
- 
-
-您贵站有ssl证书引入地址
+在线引入地址
 
 https://yaoyaoman.cn/tools/js/tongyao_player-1.1.js
 
