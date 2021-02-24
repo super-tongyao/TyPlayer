@@ -32,4 +32,4 @@ https://yaoyaoman.cn/tools/js/tongyao_player-1.3.js
 
 https://yaoyaoman.cn/tools/css/tongyao_player-1.3.css
 
-制作不易，请顺手点一下star，谢谢。
+# 制作不易，请顺手点一下star，谢谢。
