@@ -20,7 +20,7 @@ http://yaoyaoman.cn
 
 
 # Doc
-http://yaoyaoman.cn/blog/2020/12/20/tongyaoplay/
+http://yaoyaoman.cn/blog/archives/85
 
 # 在线样式和脚本
 提前引入Jquery，在线地址：https://yaoyaoman.cn/tools/js/jquery-2.1.4.min.js
