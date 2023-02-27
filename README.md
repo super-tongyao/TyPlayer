@@ -8,15 +8,17 @@
 基于网易云api框架音乐插件，引入相关css和js脚本文件，即可使用。
 
 # 使用文档
-
+<blockquote>引入脚本</blockquote>
+```js
 <link rel='stylesheet' type='text/css' href=./tongyao_player-1.3.css' />
 <script type='text/javascript' src='./tongyao_player-1.3.js' />
+```
 
 把 demo.html页面里面body包含的div块，加入到你的页面里。
 
 <img class="alignnone wp-image-79" src="http://blog.yaoyaoman.cn/images/material/202012212037.png" alt="" width="876" height="201" />
 
-然后就大功告成啦！~ :huaji22:
+然后就大功告成啦！~ 
 <blockquote>更换音乐连接</blockquote>
 至于怎么更换链接，请看：<a href="https://music.163.com/#/outchain/0/5388442370/">https://music.163.com/#/outchain/0/5388442370/</a>
 
